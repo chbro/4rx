@@ -1,0 +1,16 @@
+{
+  "name": "lint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csv_implements.js",
+  "dependencies": {
+    "xlsx": "^0.11.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zym",
+  "license": "ISC"
+}
